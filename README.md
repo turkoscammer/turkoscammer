@@ -13,7 +13,7 @@
 
 ## 🍁 Statistics;
 <p align="center">
-  <a href="https://github.com/lowhz06">
+  <a href="https://github.com/turkoscammer">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turkoscammer&layout=compact&theme=material-palenight&langs_count=12" />
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=turkoscammer&show_icons=true&include_all_commits=true&theme=material-palenight" /> <br>
 	
