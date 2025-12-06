@@ -14,8 +14,8 @@
 ## 🍁 Statistics;
 <p align="center">
   <a href="https://github.com/lowhz06">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowhz06&layout=compact&theme=material-palenight&langs_count=12" />
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=lowhz06&show_icons=true&include_all_commits=true&theme=material-palenight" /> <br>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turkoscammer&layout=compact&theme=material-palenight&langs_count=12" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=turkoscammer&show_icons=true&include_all_commits=true&theme=material-palenight" /> <br>
 	
   </a>
 </p>
