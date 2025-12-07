@@ -30,6 +30,6 @@
 <div align="center">
 <h3>Discord Activity</h3>
    <a href="https://discord.com/users/477137782385672192" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/477137782385672192?bg=0d1117&animated=true&hideDiscrim=false&borderRadius=31px">
+      <img src="[![Discord Presence](https://lanyard.cnrad.dev/api/477137782385672192)](https://discord.com/users/477137782385672192)">
    </a>
 </div>
