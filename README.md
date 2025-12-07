@@ -1,40 +1,35 @@
-# Hi 👋, I'm turkoscammer
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=azad1337&color=000000&style=for-the-badge" alt="azad1337" />
+<br>
+<h3>Contact İnformation</h3>
+<a href="https://discord.com/users/477137782385672192" target"blank_"><img src="https://img.shields.io/badge/Azad1337%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://www.youtube.com/c/scvmmer" target"blank_"><img src="https://img.shields.io/badge/YouTube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://github.com/turkoscammer" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+</div>
 
-### .gg/silivri
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=turkoscammer&label=Profile views&color=0e75b6&style=flat" alt="turkoscammer" /> </p>
+<div align="center">
+<h3>Languages and Tools</h3>
+<a <img src="https://img.shields.io/badge/JavaScript%20-111111.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"> </a>
+<img <img src="https://img.shields.io/badge/Java%20-111111.svg?&style=for-the-badge&logo=intellijidea&logoColor=white">
+<img <img src="https://img.shields.io/badge/PHP%20-111111.svg?&style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js%20-111111.svg?&style=for-the-badge&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Python%20-111111.svg?&style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Discord.Js%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5%20-111111.svg?&style=for-the-badge&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS%20-111111.svg?&style=for-the-badge&logo=CSS3&logoColor=white">
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=turkoscammer" alt="turkoscammer" /></a> </p>
 
-- 🔭 I'm currently working on **hera roleplay**
+<div align="center">
+<h3>Github Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=turkoscammer&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF" width="%100" height="150px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turkoscammer&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&border_radius=6&title_color=FFFFFF" width="%100" height="150px">
+</a>
 
-- 🌱 I'm currently learning **.lua
-ai agents
-.ts**
-
-- 👯 I'm looking to collaborate on **open source projects
-mta servers**
-
-- 💬 Ask me about **node.js, web dev and graphic design**
-
-- 📫 How to reach me **turkoscammer@gmail.com**
-
-- 👨‍💻 All of my projects are available at **[https://github.com/turkoscammer](https://github.com/turkoscammer)**
-
-- 📄 I work on this project **[https://discord.gg/hera](https://discord.gg/hera)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/turkoscammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="turkoscammer" height="30" width="40" /></a>
-<a href="https://youtube.com/scvmmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="scvmmer" height="30" width="40" /></a>
-<a href="https://discord.gg/hera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hera" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/heroku" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=heroku" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=turkoscammer&show_icons=true&locale=en&layout=compact" alt="turkoscammer" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=turkoscammer&show_icons=true&locale=en" alt="turkoscammer" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=turkoscammer&" alt="turkoscammer" /></p>
+<div align="center">
+<h3>Discord Activity</h3>
+   <a href="https://discord.com/users/477137782385672192" target="_blank">
+      <img src="https://lanyard-profile-readme.vercel.app/api/348214095050440706?bg=0d1117&animated=true&hideDiscrim=false&borderRadius=31px">
+   </a>
+</div>
